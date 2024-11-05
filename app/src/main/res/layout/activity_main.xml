@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="17dp">
 
     <Button
         android:id="@+id/viewButton"
@@ -16,13 +16,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Добавить запись"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="17dp"/>
 
     <Button
         android:id="@+id/updateButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Обновить последнюю запись"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="17dp"/>
 
 </LinearLayout>
